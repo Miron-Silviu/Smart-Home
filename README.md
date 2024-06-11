@@ -26,7 +26,7 @@ Users should be able to:
 
 # LINK
 
-[CLICK ME FOR LIVE VIEW ](https://miron-silviu.github.io/home-page/)
+[CLICK ME FOR LIVE VIEW ](https://miron-silviu.github.io/Smart-Home/)
 
 ## Screenshot
 
