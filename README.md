@@ -42,7 +42,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
+
 
 ## What I learned
 
@@ -75,5 +75,5 @@ navBtn.addEventListener('click', () => {
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Miron-Silviu)
 - Twitter - [Silviu Miron](https://x.com/silviuumiron)
