@@ -30,7 +30,7 @@ Users should be able to:
 
 ## Screenshot
 
-![Desktop Screenshot](![image](https://github.com/Miron-Silviu/Smart-Home/assets/119732322/cb36d24e-7e01-4892-9b7e-235e28dc2bdf)
+![VIEW DEMO](![image](https://github.com/Miron-Silviu/Smart-Home/assets/119732322/cb36d24e-7e01-4892-9b7e-235e28dc2bdf)
 
 
 
