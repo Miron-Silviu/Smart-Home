@@ -7,8 +7,8 @@
 ## Table of contents
 
 
-  - [The challenge](#the-challenge)
   - [Link](#link)
+  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [My process](#my-process)
   - [Built with](#built-with)
@@ -17,16 +17,15 @@
   - [Useful resources](#useful-resources)
   - [Author](#author)
 
+## Links
+[![DEPLOYMENT](https://github.com/Miron-Silviu/Guess-my-Number/blob/main/images/Frame%201.png)](https://miron-silviu.github.io/Smart-Home/)
+
 ## The challenge
 
 Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
 
-
-# LINK
-
-[CLICK ME FOR LIVE VIEW ](https://miron-silviu.github.io/Smart-Home/)
 
 ## Screenshot
 
